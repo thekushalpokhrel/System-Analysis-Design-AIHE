@@ -72,6 +72,22 @@ This course is designed to guide you on a transformative journey, from beginner 
 
 Collaboration is key!  Team up to tackle a real-world challenge and create something amazing.
 
+# Group Assignments
+
+Here are the group assignments for the System Analysis and Design course.  Each group consists of four members.
+
+| Group | Member 1 | Member 2 | Member 3 | Member 4 |
+|---|---|---|---|---|
+| 1 | [Student Name 1] | [Student Name 2] | [Student Name 3] | [Student Name 4] |
+| 2 | [Student Name 5] | [Student Name 6] | [Student Name 7] | [Student Name 8] |
+| 3 | [Student Name 9] | [Student Name 10] | [Student Name 11] | [Student Name 12] |
+| 4 | [Student Name 13] | [Student Name 14] | [Student Name 15] | [Student Name 16] |
+| 5 | [Student Name 17] | [Student Name 18] | [Student Name 19] | [Student Name 20] |
+| 6 | [Student Name 21] | [Student Name 22] | [Student Name 23] | [Student Name 24] |
+| 7 | [Student Name 25] | [Student Name 26] | [Student Name 27] | [Student Name 28] |
+| 8 | [Student Name 29] | [Student Name 30] | [Student Name 31] | [Student Name 32] |
+| 9 | [Student Name 33] | [Student Name 34] | [Student Name 35] | [Student Name 36] |
+| 10 | [Student Name 37] | [Student Name 38] | [Student Name 39] | [Student Name 40] |
 
 ## 💡 Stay Connected & Get Started
 
