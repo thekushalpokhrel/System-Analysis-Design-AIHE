@@ -2,7 +2,6 @@
 
 This tutorial explores Draw.io (diagrams.net), a powerful and free online diagramming tool, perfect for visualizing your system designs in a collaborative way.  Get ready to unleash your creativity and bring your system concepts to life!
 
-**(Insert a fun, relevant image or GIF here - perhaps a montage of different diagram types created in Draw.io or a GIF demonstrating its collaborative features.)**
 
 ## Why Draw.io for System Analysis?
 
@@ -31,7 +30,6 @@ This tutorial explores Draw.io (diagrams.net), a powerful and free online diagra
 * **Arrange Tools:**  Align, distribute, and resize shapes with precision.
 * **Import/Export:**  Import diagrams from other tools or export your diagrams in various formats (PNG, JPG, SVG, PDF, etc.).
 
-**(Insert a screenshot or GIF showcasing the Draw.io interface and some of these key tools.)**
 
 ## Collaborative Design: Teamwork Makes the Dream Work
 
@@ -41,7 +39,6 @@ This tutorial explores Draw.io (diagrams.net), a powerful and free online diagra
 4. **Real-Time Collaboration:**  Multiple users can work on the same diagram simultaneously, seeing each other's changes in real time.
 5. **Commenting:** Add comments to specific shapes or areas of the diagram to discuss design decisions.
 
-**(Insert a screenshot or GIF demonstrating the collaborative features of Draw.io.)**
 
 ## Draw.io for System Analysis: Visualizing Your Ideas
 
@@ -54,8 +51,6 @@ Here are some examples of how you can use Draw.io for system analysis and design
 * **ER Diagrams:**  Design your database schema, showing entities and their relationships.
 * **Network Diagrams:**  Map out the network infrastructure of your system.
 * **Flowcharts:**  Document the steps in a process or algorithm.
-
-**(Insert a montage or carousel of different diagram types created in Draw.io.  This will inspire students and show the versatility of the tool.)**
 
 ## Tips and Tricks: Level Up Your Diagramming Skills
 
