@@ -2,6 +2,7 @@
 
 Welcome to your central hub for all things System Analysis and Design! This repository is your go-to resource for course information, requirements, and everything you need to succeed in this exciting (and challenging!) journey.  Think of this as your digital launchpad for mastering the art of systems thinking.
 
+https://www.youtube.com/watch?v=rK0xSNQeHnU
 
 ## 🗺️ Course Overview: Your Adventure Begins
 
