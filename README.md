@@ -74,7 +74,7 @@ Collaboration is key!  Team up to tackle a real-world challenge and create somet
 
 # Group Assignments
 
-Here are the group assignments for the System Analysis and Design course.  Each group consists of four members.
+Here are the group assignments for the System Analysis and Design course.  Each group consists of four members. the link spreadsheet to fill the names of the group will be given in this link, <<ClickHere>>
 
 | Group | Member 1 | Member 2 | Member 3 | Member 4 |
 |---|---|---|---|---|
